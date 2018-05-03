@@ -1,5 +1,5 @@
 # Panther
-A Ruby script that migrates issues, comments, milestones and labels from *GitHub Enterprise* to *GitHub*.
+A Ruby script that migrates issues, comments, milestones and labels from **GitHub Enterprise** to **GitHub**.
 
 One of my current tasks at work was to migrate some git repositories from GitHub Enterprise to GitHub. Since we don't count with access to the [ghe-migrator](https://blog.github.com/2016-05-16-migrate-your-repositories-using-ghe-migrator/) tool in GitHub, we had to come up with an automated script solution to do the repositories migration.
 
