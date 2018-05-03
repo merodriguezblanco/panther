@@ -1,0 +1,7 @@
+.byebug_history
+.ruby-gemset
+
+/coverage/
+/.config
+/doc/
+/tmp/
